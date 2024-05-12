@@ -1,0 +1,7 @@
+# Ignore scrapy generated files
+__pycache__/
+*/venv/*
+*.py[cod]
+
+# Ignore scrapingbee proxy configuration files
+scrapingbee_proxy.json
